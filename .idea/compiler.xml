@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-consumer-order80" />
+        <module name="springRedis" />
+        <module name="cloud-eureka-server7002" />
+        <module name="cloud-eureka-server7001" />
+        <module name="cloud-api-commons" />
+        <module name="cloud-provider-payment8006" />
+        <module name="sourceStudy" />
+        <module name="cloud-provider-payment8004" />
+        <module name="cloud-consumerconsul-order80" />
+        <module name="cloud-provider-payment8002" />
+        <module name="cloud-provider-payment8001" />
+        <module name="spring2020_3_configuration" />
+        <module name="springmybitiesplus" />
+        <module name="SpringRedis" />
+        <module name="mybatis02" />
+        <module name="mybatis01" />
+        <module name="spring2020_2_annotation" />
+        <module name="boot" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="nacos-parent" target="1.8" />
+      <module name="redis-practice" target="1.5" />
+      <module name="SpringRedis" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springRedis" options="-parameters" />
+      <module name="springbootDemo" options="-parameters" />
+      <module name="springmybitiesplus" options="-parameters" />
+    </option>
+  </component>
+</project>

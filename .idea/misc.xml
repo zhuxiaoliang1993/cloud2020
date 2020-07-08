@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="Spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../sourceCode/pom.xml" />
+        <option value="$PROJECT_DIR$/../bootProject/springbootDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/../studyCode/spring2020/pom.xml" />
+        <option value="$PROJECT_DIR$/../studyCode/spring2020_1_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/../studyCode/spring2020_2_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/../studyCode/spring2020_2_configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/../studyCode/spring2020_3_configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/../studyCode/springRedis/pom.xml" />
+        <option value="$PROJECT_DIR$/../studyCode/pom.xml" />
+        <option value="$PROJECT_DIR$/../studyCode/springmybitiesplus/pom.xml" />
+        <option value="$PROJECT_DIR$/../studyCode/mybatis/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
